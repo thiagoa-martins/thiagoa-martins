@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou estudando e procurando um Job como Dev.
 - 🌱 Estou aprendendo Html e Css.
-- ⚡ Curiosidade: Sou músico, meu instrumento principal é o Bombardino mas me aventuro no violão rs.
+- ⚡ Curiosidade: Sou músico, meu instrumento principal é o Bombardino mas me aventuro no Violão rs.
 
 <br>
 
