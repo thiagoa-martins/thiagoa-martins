@@ -1,8 +1,8 @@
 ### Olá, eu sou o Thiago! 👋
 
-- 🔭 Atualmente estou estudando e procurando um Job como Dev.
-- 🌱 Estou aprendendo Html e Css e Java.
-- ⚡ Curiosidade: Sou músico, meu instrumento principal é o Bombardino mas me aventuro no Violão rs.
+- 🔭 Atualmente estou estudando e procurando um trabalho como Dev Junior.
+- 🌱 Estou aprendendo Html e Css e Javascript.
+- ⚡ Curiosidade: Sou músico, meu instrumento principal é o Bombardino mas me aventuro no Violão também.
 
 <br>
 
