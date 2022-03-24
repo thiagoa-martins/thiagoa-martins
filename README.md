@@ -36,11 +36,8 @@
   
 <div>
     
-  <a href="https://www.linkedin.com/in/thiagoa-martins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/thiagoa-martins/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link do linkedin do Thiago com nome de usuário: thiago_.martins"/></a>
   
-<a href="https://www.instagram.com/thiago_.martins/" target="_blank">"<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+  <a href="https://www.instagram.com/thiago_.martins/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&     logo=instagram&logoColor=white" alt="Link do instagram do Thiago com nome de usuário: thiagoa-martins"/></a>
    
-  <!-- Instagram
-       
-  -->   
 </div>
