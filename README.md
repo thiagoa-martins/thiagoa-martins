@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalho autônomo com assistência técnica em informática.
 - 🌱 Html e Css (Intermediário). Estou aprendendo Javascript.
-- ⚡ Curiosidade: Toco meu Violão e Bombardino nas horas livres. 
+- ⚡ Curiosidade: Toco violão e bombardino. 
 
 <br>
 
