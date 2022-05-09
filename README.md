@@ -1,8 +1,8 @@
 ### Bem-vindo(a)! Eu sou o Thiago Martins! 👋
 
-- 🔭 Atualmente trabalho autônomo com assistência técnica em informática.
+- 🔭 Atualmente trabalho autônomo com Assistência Técnica em Informática.
 - 🌱 Tecnologias: Html e Css (Intermediário), Javascript (Intermediário).
-- ⚡ Estudando: Node e React Js. 
+- ⚡ Estudando: Node e React. 
 
 <br>
 
@@ -29,7 +29,7 @@
   
  ##
   
- ### Redes Sociais
+ ### Redes sociais
  
 <br>
   
