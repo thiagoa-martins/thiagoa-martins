@@ -1,8 +1,8 @@
 ### Olá, eu sou o Thiago! 👋
 
 - 🔭 Atualmente trabalho autônomo com assistência técnica em informática.
-- 🌱 Html e Css (Intermediário). Estou aprendendo Javascript.
-- ⚡ Curiosidade: Toco violão e bombardino. 
+- 🌱 Tecnologias: Html e Css (Intermediário), Javascript (Intermediário).
+- ⚡ Estudando: Node e ReactJs. 
 
 <br>
 
