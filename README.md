@@ -1,4 +1,4 @@
-### Olá, eu sou o Thiago! 👋
+### Bem-vindo(a)! Eu sou o Thiago Martins! 👋
 
 - 🔭 Atualmente trabalho autônomo com assistência técnica em informática.
 - 🌱 Tecnologias: Html e Css (Intermediário), Javascript (Intermediário).
@@ -14,7 +14,7 @@
   
 ##
 
-### Linguagens
+### Tecnologias
   
 <br>
 
@@ -29,7 +29,7 @@
   
  ##
   
- ### Contato
+ ### Redes Sociais
  
 <br>
   
@@ -37,8 +37,10 @@
     <a href="https://www.linkedin.com/in/thiagoa-martins/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" width="124" alt="Link do linkedin do Thiago com nome de usuário: thiago_.martins">
    </a>
-  
+   
   <a href="https://www.instagram.com/thiago_.martins/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" width="124" alt="Link do instagram do Thiago com nome de usuário: thiagoa-martins">
    </a>
  </div>
+
+  ### Obrigado por visitar meu perfil! 👋
