@@ -2,7 +2,8 @@
 
 - 🔭 Atualmente trabalho autônomo com Assistência Técnica em Informática.
 - 🌱 Tecnologias: Html e Css (Intermediário), Javascript (Intermediário).
-- ⚡ Estudando: Node e React. 
+- ⚡ Estudando: Node (node puro e com express), lógica de programação.
+- Para estudar: Scrum, React
 
 <br>
 
