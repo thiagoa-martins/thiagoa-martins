@@ -35,7 +35,7 @@
   <img align="center" alt="Thiago-React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />     
 </div>
   
-<br><br>
+
 
 ### Conhecimentos
 ###### A lista é atualizada constantemente.
