@@ -66,7 +66,7 @@
    - Json
    - Callback.
    - Promise.
-   - Async Await.
+   - Async await.
    - Consumo de api (ajax, fetch).  
     
 ### ⚡ Estudando
