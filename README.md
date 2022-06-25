@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/thiagumartins/thiagoa-martins/">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoa-martins&show_icons=true&&theme=merko"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoa-martins&layout=compact&&theme=merko"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagoa-martins&show_icons=true&&theme=merko"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoa-martins&layout=compact&&theme=merko"/>
  
 </div>
   
