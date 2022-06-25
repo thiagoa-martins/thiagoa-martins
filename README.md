@@ -1,9 +1,37 @@
 ### Bem-vindo(a)! Eu sou o Thiago Martins! 👋
 
-- 🔭 Atualmente trabalho autônomo com Assistência Técnica em Informática.
-- 🌱 Tecnologias: Html e Css (Intermediário), Javascript (Intermediário).
+- 🔭 Atualmente trabalho autônomo com Assistência técnica em informática.
+
+- 🌱 Tecnologias:
+
+  #### HTML
+  
+   - Tags semânticas.
+   - Formulários.
+   - Iframe.
+   - Classes, id's e data atrributes.
+   - Estrutura lógica.
+  
+  #### CSS
+
+   - Flexbox ().
+   - Layout responsivo (media query, medidas relativas (em, rem, %)).
+   - Sass.
+   
+  #### JAVASCRIPT 
+
+    - Manipulação de elementos do dom (querySelector, getElementById, data attributes, dentre outros).
+    - Utilização de eventos (click, keyup, blur, dentre outros).
+    - Timeout e interval.
+    - Métodos (filter, map e reduce).
+    - Json
+    - Callback.
+    - Promise.
+    - Async Await
+    - Consumo de api (ajax, fetch).
+    
 - ⚡ Estudando: Node (node puro e com express), lógica de programação.
-- Para estudar: Scrum, React
+- Para estudar: Scrum, react.
 
 <br>
 
