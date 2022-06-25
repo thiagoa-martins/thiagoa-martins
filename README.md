@@ -71,7 +71,7 @@
     
 ### ⚡ Estudando
   
-   - Node (node puro e com express), lógica de programação.
+   - Node (node puro e com express), lógica de programação, css grid.
    - Para estudar: Scrum, react.
 
 <br>
