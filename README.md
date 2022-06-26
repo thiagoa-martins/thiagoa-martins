@@ -4,16 +4,8 @@ Sou formado como técnico em informática e estou migrando para a área de desen
 
 - 🔭 Atualmente trabalho autônomo com assistência técnica em informática.
 
-<div>
-  <a href="https://github.com/thiagumartins/thiagoa-martins/">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagoa-martins&show_icons=true&&theme=merko"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoa-martins&layout=compact&&theme=merko"/>
- 
-</div>
-  
-##
- 
 <br>
-  
+
  <div>   
     <a href="https://www.linkedin.com/in/thiagoa-martins/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" width="124" alt="Link do linkedin do Thiago com nome de usuário: thiago_.martins">
@@ -23,7 +15,16 @@ Sou formado como técnico em informática e estou migrando para a área de desen
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" width="124" alt="Link do instagram do Thiago com nome de usuário: thiagoa-martins">
    </a>
  </div>
+ 
+##
 
+ <br>
+
+<div>
+  <a href="https://github.com/thiagumartins/thiagoa-martins/">
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagoa-martins&show_icons=true&&theme=merko"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoa-martins&layout=compact&&theme=merko"/>
+ 
+</div>
 
 ### 🌱 Tecnologias
 
@@ -39,7 +40,7 @@ Sou formado como técnico em informática e estou migrando para a área de desen
    -->
 </div>
   
-
+##
 
 ### Conhecimentos
 ###### A lista é atualizada constantemente.
@@ -71,7 +72,9 @@ Sou formado como técnico em informática e estou migrando para a área de desen
    - Callback.
    - Promise.
    - Async await.
-   - Consumo de api (ajax, fetch).  
+   - Consumo de api (ajax, fetch). 
+  
+##
     
 ### ⚡ Estudando
   
