@@ -2,7 +2,7 @@
 
 Sou formado como técnico em informática e estou migrando para a área de desenvolvimento front-end, meu gosto por tecnologia começou com vídeos games, jogos para celulares e por outros recursos do celular. Saindo do ensino médio me formei em informática e meu gosto por tecnologia só aumentou agora através dos computadores, tive contato com o hardware e conheci esse mundo da programação onde despertou muita vontade e interesse de trabalhar na área.
 
-- 🔭 Atualmente trabalho autônomo com Assistência técnica em informática.
+- 🔭 Atualmente trabalho autônomo com assistência técnica em informática.
 
 <div>
   <a href="https://github.com/thiagumartins/thiagoa-martins/">
