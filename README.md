@@ -18,14 +18,6 @@ Sou formado como técnico em informática e estou migrando para a área de desen
  
 ##
 
- <br>
-
-<div>
-  <a href="https://github.com/thiagumartins/thiagoa-martins/">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagoa-martins&show_icons=true&&theme=merko"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoa-martins&layout=compact&&theme=merko"/>
- 
-</div>
-
 ### 🌱 Tecnologias
 
 <br>
@@ -38,6 +30,14 @@ Sou formado como técnico em informática e estou migrando para a área de desen
   <!--
   <img align="center" alt="Thiago-React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
    -->
+</div>
+
+<br><br>
+
+<div>
+  <a href="https://github.com/thiagumartins/thiagoa-martins/">
+ <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagoa-martins&show_icons=true&&theme=merko"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoa-martins&layout=compact&&theme=merko"/>
+ 
 </div>
   
 ##
