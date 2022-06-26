@@ -32,7 +32,7 @@ Sou formado como técnico em informática e estou migrando para a área de desen
    -->
 </div>
 
-<br>
+<br><br>
 
 <div>
   <a href="https://github.com/thiagumartins/thiagoa-martins/">
