@@ -17,7 +17,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" width="124" alt="Link do linkedin do Thiago com nome de usuário: thiago_.martins">
    </a>
    
-  <a href="https://www.instagram.com/devthiago_.martins/" target="_blank">
+  <a href="https://www.instagram.com/thiago_.martins/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" width="124" alt="Link do instagram do Thiago com nome de usuário: thiagoa-martins">
    </a>
  </div>
