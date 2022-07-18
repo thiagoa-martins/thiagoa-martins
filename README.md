@@ -1,6 +1,9 @@
 ### Bem-vindo(a)! Eu sou o Thiago Martins! 👋
 
-Sou formado como técnico em informática e estou migrando para a área de desenvolvimento web, meu gosto por tecnologia começou com vídeos games, jogos para celulares e por outros recursos do celular. Saindo do ensino médio me formei em informática e meu gosto por tecnologia só aumentou agora através dos computadores, tive contato com o hardware e conheci esse mundo da programação onde despertou muita vontade e interesse de trabalhar na área.
+- Sou formado como Técnico em informática e estou migrando para a área de desenvolvimento front-end, trabalhar com tecnologia é algo que eu gosto muito. 
+- Como estou buscando minha primeira oportunidade atualmente estou focado em consolidar minha base de programação, algoritmos, lógica de programação e o foco na stack que escolhi, JavaScript.
+- Estou trabalhando com: Html, Css, Javascript, Vite e Node.js
+- Manutenção e criação de sites, e portais web. 
 
 - 🔭 Atualmente trabalho autônomo com assistência técnica em informática.
 
