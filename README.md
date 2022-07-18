@@ -43,46 +43,10 @@
 </div>
   
 ##
-
-### Conhecimentos
-###### A lista é atualizada constantemente.
-
-  #### HTML
-  
-   - Tags semânticas.
-   - Formulários.
-   - Iframe.
-   - Classes, id's e data atrributes.
-   - Estrutura lógica.
-  
-  #### CSS
-
-   - Flexbox (justify-content, align items, flex-wrap, dentre outras).
-   - Layout responsivo (media query, medidas relativas (em, rem, %)).
-   - Variáveis.
-   - Box model.
-   - Sass.
-   
-  #### JAVASCRIPT 
-  
-   - Manipulação de elementos do dom (querySelector, getElementById, data attributes, dentre outros).
-   - Utilização de eventos (click, keyup, blur, dentre outros).
-   - Timeout e interval.
-   - Funções.
-   - Métodos (filter, map e reduce).
-   - Json
-   - Callback.
-   - Promise.
-   - Async await.
-   - Consumo de api (ajax, fetch). 
-  
-##
     
 ### ⚡ Estudando
   
    - Node (node puro e com express), lógica de programação, css grid.
    - Para estudar: Scrum, react.
-
-<br>
 
   ### Obrigado por visitar meu perfil! 👋
