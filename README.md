@@ -2,10 +2,9 @@
 
 - Sou formado como Técnico em informática e estou migrando para a área de desenvolvimento front-end, trabalhar com tecnologia é algo que eu gosto muito. 
 - Como estou buscando minha primeira oportunidade atualmente estou focado em consolidar minha base de programação, algoritmos, lógica de programação e o foco na stack que escolhi, JavaScript.
-- Estou trabalhando com: Html, Css, Javascript, Vite e Node.js
 - Manutenção e criação de sites, e portais web. 
 
-- 🔭 Atualmente trabalho autônomo com assistência técnica em informática.
+- 🔭 Estou trabalhando com: Html, Css, Javascript, Vite e Node.js
 
 <br>
 
