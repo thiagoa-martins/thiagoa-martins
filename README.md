@@ -1,10 +1,6 @@
 ### Bem-vindo(a)! Eu sou o Thiago Martins! 👋
 
-- Sou formado como Técnico em informática e estou migrando para a área de desenvolvimento front-end, trabalhar com tecnologia é algo que eu gosto muito. 
-- Como estou buscando minha primeira oportunidade atualmente estou focado em consolidar minha base de programação, algoritmos, lógica de programação e o foco na stack que escolhi, JavaScript.
-- Manutenção e criação de sites, e portais web. 
-
-- 🔭 Estou estudando: Html, Css, Javascript, Git  e terminal Shell
+Olá, Meu nome é Thiago. Sou formado como Técnico em Informática e já tabalhei com tecnologia, trabalhei também na área administrativa onde desenvolvi habilidades de comunicação, agilidade e organização. Meu objetivo é trabalhar com programação Front-end de início e atualmente estou estudando HTML, CSS, JavaScript, Git e terminal Shell.
 
 <br>
 
@@ -45,10 +41,5 @@
 </div>
   
 ##
-    
-### ⚡ Estudando
-  
-   - Node (node puro e com express), lógica de programação, css grid.
-   - Para estudar: Scrum, react.
 
   ### Obrigado por visitar meu perfil! 👋
