@@ -36,9 +36,9 @@ Olá, Meu nome é Thiago. Sou formado como Técnico em Informática e já tabalh
 <br><br>
 
 <div>
-  <a href="https://github.com/thiagumartins/thiagoa-martins/">
+  <a href="https://github.com/thiagoa-martins/">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagoa-martins&show_icons=true&&theme=merko"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoa-martins&layout=compact&&theme=merko"/>
- 
+ </a>
 </div>
   
 ##
