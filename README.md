@@ -4,7 +4,7 @@
 - Como estou buscando minha primeira oportunidade atualmente estou focado em consolidar minha base de programação, algoritmos, lógica de programação e o foco na stack que escolhi, JavaScript.
 - Manutenção e criação de sites, e portais web. 
 
-- 🔭 Estou estudando: Html, Css, Javascript, Vite e Node.js
+- 🔭 Estou estudando: Html, Css, Javascript
 
 <br>
 
