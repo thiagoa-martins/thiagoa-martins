@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thiago!</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoa-martins&color=yellow" alt="Profile views" /> </p>
+
+I'm a Web Developer. And, I'm studying web development on my own.
+
+##
+
+#### Current stack
+
+- 📡 Back-end with Node.js
+- 💄 Front-end with React.JS: `HTML5`, `CSS3`, `SASS`, `Styled-components`, `JavaScript`
+
+
+
+- 🔨 `TypeScript`
+- 🎨 Layout design: `Figma`
+- 📦️ Version control: `Git e Github`
+
+##
+
+#### Find me elsewhere
+- 👥 [Linkedin](https://www.linkedin.com/in/thiagoa-martins/).
 
 <!--
-**thiagoa-martins/thiagoa-martins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div>
+  <a href="https://github.com/thiagoa-martins/">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoa-martins&layout=compact&&theme=merko"/>
+  </a>
+</div>
 -->
