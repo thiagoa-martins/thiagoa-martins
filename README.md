@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thiago!</h1> <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagoa-martins&color=yellow" alt="Profile views" /> </p>
 
-I'm studying web development.
+Web developer focused on Front-end, passionate about networks and computers.
 
 ##
 
