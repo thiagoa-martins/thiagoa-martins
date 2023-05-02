@@ -11,9 +11,13 @@ Web Developer focused on Back-end, lover of networks and computers.
 - 🔨 Layout design: `Figma`
 - 📦️ Version control: `Git e Github`
 
+<br>
+
+<a href="mailto:contato.thiagom@outlook.com">
+  ✉️ Email
+</a>
+
 ##
-
-
 
 <div>
   <a href="https://github.com/thiagoa-martins/">
