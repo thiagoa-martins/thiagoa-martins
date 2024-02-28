@@ -6,8 +6,8 @@ Web Developer focused on Back-end, lover of networks and computers.
 
 #### Current stack
 
-- ☕ Back-end with `Java`
-- 🎨 Front-end with ReactJS: `HTML5`, `CSS3`, `JavaScript`, `TypeScript`, `SASS`, `Styled-components`
+- ☕ Back-end with `Java and Python`
+- 🎨 Front-end: `HTML5`, `CSS3`, `JavaScript`
 - 🔨 Layout design: `Figma`
 - 📦️ Version control: `Git e Github`
 
